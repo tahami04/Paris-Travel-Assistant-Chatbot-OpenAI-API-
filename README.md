@@ -67,7 +67,7 @@ jupyter notebook ParisTravelAssistantChatbot.ipynb
 ├── ParisTravelAssistantChatbot.ipynb   # Main notebook
 ├── README.md                           # Project documentation
 ├── .gitignore                          # Ignore temp and secrets
-└── LICENSE                             # License (optional)
+└── LICENSE                             # License
 ```
 
 ---
