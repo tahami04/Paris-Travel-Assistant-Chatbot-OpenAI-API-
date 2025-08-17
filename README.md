@@ -36,7 +36,7 @@ Build a chatbot using OpenAI's GPT model that:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/paris-travel-chatbot.git
+git clone https://github.com/tahami04/Paris-Travel-Assistant-Chatbot-OpenAI-API
 cd paris-travel-chatbot
 ```
 
